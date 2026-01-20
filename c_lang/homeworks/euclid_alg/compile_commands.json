@@ -1,0 +1,41 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Iheaders",
+      "-o",
+      "build/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/flakon/hse/c_lang/homeworks/euclid_alg",
+    "file": "/home/flakon/hse/c_lang/homeworks/euclid_alg/src/main.c",
+    "output": "/home/flakon/hse/c_lang/homeworks/euclid_alg/build/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Iheaders",
+      "-o",
+      "build/math_funcs.o",
+      "src/math_funcs.c"
+    ],
+    "directory": "/home/flakon/hse/c_lang/homeworks/euclid_alg",
+    "file": "/home/flakon/hse/c_lang/homeworks/euclid_alg/src/math_funcs.c",
+    "output": "/home/flakon/hse/c_lang/homeworks/euclid_alg/build/math_funcs.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Iheaders",
+      "-o",
+      "build/io_funcs.o",
+      "src/io_funcs.c"
+    ],
+    "directory": "/home/flakon/hse/c_lang/homeworks/euclid_alg",
+    "file": "/home/flakon/hse/c_lang/homeworks/euclid_alg/src/io_funcs.c",
+    "output": "/home/flakon/hse/c_lang/homeworks/euclid_alg/build/io_funcs.o"
+  }
+]

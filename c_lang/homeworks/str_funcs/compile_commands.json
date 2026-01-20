@@ -1,0 +1,38 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O2",
+      "-std=c99",
+      "-Iheaders",
+      "-c",
+      "-o",
+      "build/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/flakon/hse/c_lang/homeworks/str_funcs",
+    "file": "/home/flakon/hse/c_lang/homeworks/str_funcs/src/main.c",
+    "output": "/home/flakon/hse/c_lang/homeworks/str_funcs/build/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-O2",
+      "-std=c99",
+      "-Iheaders",
+      "-c",
+      "-o",
+      "build/str_funcs.o",
+      "src/str_funcs.c"
+    ],
+    "directory": "/home/flakon/hse/c_lang/homeworks/str_funcs",
+    "file": "/home/flakon/hse/c_lang/homeworks/str_funcs/src/str_funcs.c",
+    "output": "/home/flakon/hse/c_lang/homeworks/str_funcs/build/str_funcs.o"
+  }
+]

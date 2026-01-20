@@ -1,0 +1,41 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Iheaders",
+      "-o",
+      "obj/calc_funcs.o",
+      "src/calc_funcs.c"
+    ],
+    "directory": "/home/flakon/hse/c_lang/homeworks/quadratic_equations",
+    "file": "/home/flakon/hse/c_lang/homeworks/quadratic_equations/src/calc_funcs.c",
+    "output": "/home/flakon/hse/c_lang/homeworks/quadratic_equations/obj/calc_funcs.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Iheaders",
+      "-o",
+      "obj/inp_funcs.o",
+      "src/inp_funcs.c"
+    ],
+    "directory": "/home/flakon/hse/c_lang/homeworks/quadratic_equations",
+    "file": "/home/flakon/hse/c_lang/homeworks/quadratic_equations/src/inp_funcs.c",
+    "output": "/home/flakon/hse/c_lang/homeworks/quadratic_equations/obj/inp_funcs.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-Iheaders",
+      "-o",
+      "obj/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/flakon/hse/c_lang/homeworks/quadratic_equations",
+    "file": "/home/flakon/hse/c_lang/homeworks/quadratic_equations/src/main.c",
+    "output": "/home/flakon/hse/c_lang/homeworks/quadratic_equations/obj/main.o"
+  }
+]

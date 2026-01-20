@@ -1,0 +1,35 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-O2",
+      "-Wall",
+      "-Werror",
+      "-Wformat-security",
+      "-Wignored-qualifiers",
+      "-Winit-self",
+      "-Wswitch-default",
+      "-Wfloat-equal",
+      "-Wpointer-arith",
+      "-Wtype-limits",
+      "-Wempty-body",
+      "-Wno-logical-op",
+      "-Wstrict-prototypes",
+      "-Wold-style-declaration",
+      "-Wold-style-definition",
+      "-Wmissing-parameter-type",
+      "-Wmissing-field-initializers",
+      "-Wnested-externs",
+      "-Wno-pointer-sign",
+      "-Wno-unused-result",
+      "-std=gnu99",
+      "-o",
+      "8",
+      "8.c"
+    ],
+    "directory": "/home/flakon/hse/c_lang/contests/fourth_contest",
+    "file": "/home/flakon/hse/c_lang/contests/fourth_contest/8.c",
+    "output": "/home/flakon/hse/c_lang/contests/fourth_contest/8"
+  }
+]
